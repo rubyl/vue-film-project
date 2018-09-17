@@ -13,15 +13,15 @@
 </template>
 
 <script>
-    export default {
-        name: 'App',
-        data () {
-            return {
-                wordCount: 0,
-                latestWord: 'Latest_Word'
-            }
+export default {
+    name: 'App',
+    data () {
+        return {
+            wordCount: 0,
+            latestWord: 'Latest_Word'
         }
     }
+}
 </script>
 
 <style lang="scss">
