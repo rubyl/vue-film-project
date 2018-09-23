@@ -1,4 +1,4 @@
-# word
+# vue-film-project
 
 > a Vue.js project
 
